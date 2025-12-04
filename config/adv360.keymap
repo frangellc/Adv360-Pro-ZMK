@@ -71,7 +71,7 @@
         QWERTY {
             display-name = "Base";
             bindings = <
-&kp EQUAL         &kp N1                 &hm F2 NUMBER_2          &kp N3       &kp N4       &hm F5 N5    &tog 1                                                                                                &mo 3          &kp N6  &kp N7           &kp N8       &kp N9      &kp N0           &kp MINUS
+&hm ESC EQUAL     &kp N1                 &hm F2 NUMBER_2          &kp N3       &kp N4       &hm F5 N5    &tog 1                                                                                                &mo 3          &kp N6  &kp N7           &kp N8       &kp N9      &kp N0           &kp MINUS
 &kp TAB           &kp Q                  &kp W                    &hm LC(X) E  &hm LC(C) R  &hm LC(V) T  &hm LC(Y) LC(Z)                                                                                       &kp LG(LS(S))  &kp Y   &kp U            &kp I        &kp O       &kp P            &kp BSLH
 &kp CAPS          &kp A                  &kp S                    &kp D        &lt 2 F      &kp G        &hm LC(LS(N)) LC(A)  &kp SPACE                &kp DEL             &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &none          &kp Y   &kp H            &kp A        &kp E       &lt 2 SEMICOLON  &kp SQT
 &kp LSHFT         &kp Z                  &kp X                    &kp C        &kp V        &kp B                                                      &hm HOME PG_UP      &kp LC(LS(TAB))                                    &kp N   &kp M            &kp COMMA    &kp PERIOD  &kp SLASH        &kp RSHFT
