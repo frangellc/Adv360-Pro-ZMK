@@ -27,11 +27,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&hm ESC EQUAL     &kp N1                 &hm F2 NUMBER_2          &kp N3       &kp N4       &hm F5 N5    &tog 1                                                                                          &mo 3          &kp N6  &kp N7           &kp N8       &kp N9         &kp N0      &kp MINUS
-&kp TAB           &kp B                  &kp L                    &hm LC(X) D  &hm LC(C) C  &hm LC(V) V  &hm LC(Y) LC(Z)                                                                                 &kp LG(LS(S))  &kp J   &kp F            &kp O        &kp U          &kp COMMA   &kp BSLH
-&kp CAPS          &hm LC(LS(N)) N        &kp R                    &kp T        &lt 2 S      &kp G        &hm LC(LS(N)) LC(A)  &hm ENTER SPACE    &kp DEL             &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp LG(D)      &kp Y   &kp H            &kp A        &kp E          &lt 2 I     &kp SLASH
-&kp LSHFT         &kp X                  &kp Q                    &kp M        &kp W        &kp Z                                                &hm HOME PG_UP      &kp LC(LS(TAB))                                    &kp K   &kp P            &kp SQT      &kp SEMICOLON  &kp PERIOD  &kp RSHFT
-&kp LEFT_CONTROL  &hm LEFT_WIN UP_ARROW  &hm LEFT_ALT DOWN_ARROW  &kp LEFT     &kp RIGHT                 &kp BSPC             &kp LC(BACKSPACE)  &hm END PG_DN       &kp LC(TAB)        &hm ESC ENTER    &kp SPACE              &kp LS(LA(TAB))  &kp LA(TAB)  &kp LBKT       &kp RBKT    &mo 2
+&hm ESC EQUAL     &kp N1                 &hm F2 NUMBER_2          &kp N3       &kp N4       &hm F5 N5    &tog 1                                                                                      &mo 3          &kp N6  &kp N7           &kp N8       &kp N9         &kp N0      &kp MINUS
+&kp TAB           &kp B                  &kp L                    &hm LC(X) D  &hm LC(C) C  &hm LC(V) V  &hm LC(Y) LC(Z)                                                                             &kp LG(LS(S))  &kp J   &kp F            &kp O        &kp U          &kp COMMA   &kp BSLH
+&kp CAPS          &hm LC(LS(N)) N        &kp R                    &kp T        &lt 2 S      &kp G        &kp LC(A)        &hm ENTER SPACE    &kp DEL             &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp LG(D)      &kp Y   &kp H            &kp A        &kp E          &lt 2 I     &kp SLASH
+&kp LSHFT         &kp X                  &kp Q                    &kp M        &kp W        &kp Z                                            &hm HOME PG_UP      &kp LC(LS(TAB))                                    &kp K   &kp P            &kp SQT      &kp SEMICOLON  &kp PERIOD  &kp RSHFT
+&kp LEFT_CONTROL  &hm LEFT_WIN UP_ARROW  &hm LEFT_ALT DOWN_ARROW  &kp LEFT     &kp RIGHT                 &kp BSPC         &kp LC(BACKSPACE)  &hm END PG_DN       &kp LC(TAB)        &hm ESC ENTER    &kp SPACE              &kp LS(LA(TAB))  &kp LA(TAB)  &kp LBKT       &kp RBKT    &mo 2
             >;
         };
 
