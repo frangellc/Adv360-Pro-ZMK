@@ -53,7 +53,7 @@
             bindings = <
 &kp F1  &kp F2     &kp F3  &kp F4                  &kp F5                   &kp F6  &tog 1                                        &mo 3        &kp F7    &kp F8          &kp F9          &kp F10          &kp F11  &kp F12
 &trans  &trans     &trans  &trans                  &trans                   &trans  &tog 4                                        &kp C_SLEEP  &kp HOME  &kp PG_UP       &kp UP_ARROW    &kp PG_DN        &trans   &trans
-&trans  &trans     &trans  &trans                  &trans                   &trans  &tog 0  &trans  &trans      &trans    &trans  &kp LG(L)    &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans   &trans
+&trans  &trans     &trans  &trans                  &trans                   &trans  &trans  &trans  &trans      &trans    &trans  &kp LG(L)    &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans   &trans
 &trans  &trans     &trans  &trans                  &trans                   &trans                  &trans      &kp HOME                       &trans    &trans          &trans          &trans           &trans   &trans
 &trans  &kp GRAVE  &trans  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))          &trans  &trans  &trans      &kp END   &trans  &trans                 &kp LC(LA(A))   &kp LC(LA(S))   &kp LC(LA(D))    &trans   &trans
             >;
@@ -86,7 +86,7 @@
             bindings = <
 &kp F1  &kp F2     &kp F3  &kp F4                  &kp F5                   &kp F6  &tog 1                                        &mo 3        &kp F7    &kp F8          &kp F9          &kp F10          &kp F11  &kp F12
 &trans  &trans     &trans  &trans                  &trans                   &trans  &tog 4                                        &kp C_SLEEP  &kp HOME  &kp PG_UP       &kp UP_ARROW    &kp PG_DN        &trans   &trans
-&trans  &trans     &trans  &trans                  &trans                   &trans  &tog 0  &trans  &trans      &trans    &trans  &kp LG(L)    &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans   &trans
+&trans  &trans     &trans  &trans                  &trans                   &trans  &trans  &trans  &trans      &trans    &trans  &kp LG(L)    &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans   &trans
 &trans  &trans     &trans  &trans                  &trans                   &trans                  &trans      &kp HOME                       &trans    &trans          &trans          &trans           &trans   &trans
 &trans  &kp GRAVE  &trans  &kp LC(LG(LEFT_ARROW))  &kp LC(LG(RIGHT_ARROW))          &trans  &trans  &trans      &kp END   &trans  &trans                 &kp LC(LA(A))   &kp LC(LA(S))   &kp LC(LA(D))    &trans   &trans
             >;
